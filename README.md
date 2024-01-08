@@ -5,7 +5,7 @@ This C++ program simulates a virtual Baccarat game where a player can bet on eit
 
 ## Author
 - Chaitanya Gautam
-- Email: chaitanya.gautam@pisquaretech.com
+- Email: chaitanyag731@gmail.com
 
 ## How to Run
 1. Compile the C++ code using a C++ compiler (e.g., g++).
