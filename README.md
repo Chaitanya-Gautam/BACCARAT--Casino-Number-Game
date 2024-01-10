@@ -49,7 +49,6 @@ This C++ program simulates a virtual Baccarat game where a player can bet on eit
 - Random card generation adds an element of chance to the game.
 - The program checks for valid inputs and ensures the player has sufficient funds for betting.
 
-## License
-This project is open-source and available under the [MIT License](LICENSE). Feel free to modify and use the code according to your needs. If you have any suggestions or find issues, please create an [issue](https://github.com/yourusername/baccarat/issues).
+
 
 Enjoy the virtual Baccarat experience!
